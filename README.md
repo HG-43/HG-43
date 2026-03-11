@@ -51,7 +51,8 @@
 
 Built a scalable audiobook web application.
 
-**Tech:** React • TypeScript • Spring Boot • REST APIs • SQL
+**Tech Stack** : 
+React • TypeScript • Spring Boot • REST APIs • SQL
 
 Features:
 
@@ -63,33 +64,46 @@ Features:
 
 ---
 
-### 💬 Scalable Multi-Server Chat System
+### 💬 Clan Chat – Scalable Multi-Server Chat System
 
-Real-time messaging platform designed for high concurrency.
+Discord-like real-time chat platform supporting messaging and live voice/video communication.
 
-**Tech:** Spring Boot • WebSockets • Microservices
+**Tech Stack**  
+Next.js • WebSocket • LiveKit • Microservices
 
-Highlights:
+**Key Features**
 
-✔ Handles **1000+ messages/min**  
-✔ Low latency communication  
-✔ Multi-server architecture  
+✔ Real-time messaging using WebSockets for low-latency communication  
+✔ Supports concurrent users with scalable server architecture  
+✔ Integrated **LiveKit** for voice and video calls  
+✔ Distributed microservices architecture separating:
+- Authentication service
+- Application logic service
+- WebSocket messaging service
+
+✔ Designed for scalability, fault isolation, and high availability
+
+🔗 **Repository:** https://github.com/HG-43/clan-chat 
 
 ---
 
-### 📚 BookNest – Microservices Bookstore
+### 🎬 IMDb Movie Insight Tracker
 
-Cloud-ready bookstore platform with modern architecture.
+Movie discovery web application that fetches **real-time movie data** using the OMDb API.
 
-**Tech:** Spring Boot • RabbitMQ • Keycloak • Docker • Kubernetes
+**Tech Stack**  
+Next.js • React • TypeScript • REST APIs
 
-Features:
+**Key Features**
 
-✔ OAuth2 authentication  
-✔ Real-time order updates  
-✔ Admin dashboards  
-✔ Scalable container deployment  
+✔ Real-time movie search using OMDb API  
+✔ Server-side API routes implemented with **Next.js App Router**  
+✔ Responsive React UI for movie browsing and ratings display  
+✔ Displays movie details including ratings, release information, and metadata  
+✔ Secure API integration using environment variables  
+✔ Deployed on **Vercel** for fast global access
 
+🔗 **Repository:** https://github.com/HG-43/imdb-movie-insight-tracker
 
 ---
 
