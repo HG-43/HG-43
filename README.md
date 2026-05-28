@@ -5,7 +5,7 @@ Software Developer • AI Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=3BA4F7&center=true&vCenter=true&width=900&lines=Software+Developer;Full+Stack+Engineer;AI+Engineer;RAG+Application+Developer;LLM+Engineering+Enthusiast;Building+Scalable+Applications;Exploring+AI+Agents+%26+Generative+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=3BA4F7&center=true&vCenter=true&width=900&lines=Software+Developer;AI+Engineer;Building+Scalable+Applications;Exploring+AI+Agents+%26+Generative+AI" />
 </p>
 
 ---
